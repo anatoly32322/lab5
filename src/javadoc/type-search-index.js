@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com","l":"Commands"},{"p":"com","l":"Coordinates"},{"p":"com","l":"Location"},{"p":"com","l":"Main"},{"p":"com","l":"Route"},{"p":"com.Exceptions","l":"WrongInputException"}]
